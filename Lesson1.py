@@ -20,3 +20,5 @@ print(myint, myint2)
 print(f"the lenght of my string is {len(mystring)}")
 
 print(f"This is a number {myint}, and {myfloat}")
+ 
+ 
