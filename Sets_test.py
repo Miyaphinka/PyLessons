@@ -7,3 +7,4 @@ me = set(my_fav_champs)
 our_champs = me - daddy
 result = daddys_fav_champs + list(our_champs)
 print(result)
+ 
